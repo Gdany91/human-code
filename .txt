@@ -1,0 +1,87 @@
+PASTA ALLA BOLOGNESE	
+#team-4
+
+fare lasagne alla bolognese
+SE hai gli ingredienti
+
+NO
+fai la spesa
+
+prendere pentola capiente
+mettere sul fuoco a fiamma alta
+SE c’è  la salsiccia dentro
+
+NO
+aggiungere dell’olio
+
+aggiungere la carne in pentola
+SE la carne è pronta
+
+NO
+aspetta 5m., gira la carne
+TORNA A “SE la carne è pronta”
+
+aggiungere gli odori
+SE gli odori sono pronti
+
+NO
+aspetta 3m., gira gli odori
+
+aggiungere passata
+
+
+SE il ragù è pronto
+
+NO
+aspetta 30m.,
+gira il ragù
+aggiungi un mestolo di brodo
+TORNA A “SE il ragù è pronto”
+
+mescola velocemente
+SE la besciamella è pronta
+
+NO
+mescola per 2m.
+TORNA A “SE la besciamella è pronta”
+
+metti da parte
+iniziare besciamella
+prendere pentolino
+inserire farina e burro
+mescola velocemente
+SE il roux è pronto
+
+NO
+mescola per 2m.
+TORNA A “SE il roux è pronto”
+
+aggiungere latte
+mescola velocemente
+SE la besciamella è pronta
+
+NO
+mescola per 2m.
+TORNA A “SE la besciamella è pronta”
+
+metti da parte
+accendi forno (180°)
+prendere teglia
+assemblare lasagne
+stendere strato di ragù
+stendere strato di sfoglia
+stendere strato di besciamella
+SE è stato fatto 4 volte
+
+NO
+TORNA A “stendere strato di ragù”
+
+aggiungere parmigiano
+SE basta
+
+NAAAH
+TORNA A “aggiungere parmigiano”
+
+infornare lasagna
+aspettare 40m.
+sfornare
